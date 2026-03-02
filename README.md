@@ -4,7 +4,7 @@
 
 <div align="left">
 
-  <a href="https://github.com/jpsouza25">
+
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=jpsouza25&theme=dracula"/>
   <img height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=jpsouza25&hide=html&layout=compact&theme=dracula"/>
     
